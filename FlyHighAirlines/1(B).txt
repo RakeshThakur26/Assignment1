@@ -1,0 +1,10 @@
+Interfaces : 
+	Interface is the abstract class in which methods are declared but not defined.
+(a). An interface can be defined using the interface keyword. 
+(b). Child classes of interfaces has to define the menthods which has declared. 
+(c). An interface can contain declarations of methods, properties, indexers, and events.
+(d). Interfaces allows multiple inheritance.
+(e). Interfaces allow us to implement polymorphic behaviour.
+
+Example for interfaces is given in below link
+
